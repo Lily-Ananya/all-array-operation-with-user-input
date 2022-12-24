@@ -2,6 +2,7 @@
 all array operation are done in this c file 
 this is a c program of array with user input 
 this program includes functions like -
+
 1)create();
 
 2)display();
